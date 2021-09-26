@@ -1,0 +1,240 @@
+<html>
+<head>
+<title>TestNG:  runner</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>runner</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>10/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Sun Sep 26 09:25:36 IST 2021</td>
+</tr>
+<tr><td>Total time:</td><td>109 seconds (109289 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.cucumber_comprensive_assessment.Runner.Runner.runScenario()'><b>runScenario</b><br>Test class: com.cucumber_comprensive_assessment.Runner.Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "appcheck", "furniture"<br/>
+<a href="#Output-124734309" onClick='toggleBox("Output-124734309", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-124734309" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-124734309">
+<div "result">driver (PASSED : 2s)</div><br/>
+<div "result">url (PASSED : 5s)</div><br/>
+<div "result">click on appstore (PASSED : 0s)</div><br/>
+<div "result">read the rating (PASSED : 0s)</div><br/>
+<div "result">close (PASSED : 0s)</div><br/>
+</div>
+</td>
+<td></td>
+<td>8</td>
+<td>com.cucumber_comprensive_assessment.Runner.Runner@4678c730</td></tr>
+<tr>
+<td title='com.cucumber_comprensive_assessment.Runner.Runner.runScenario()'><b>runScenario</b><br>Test class: com.cucumber_comprensive_assessment.Runner.Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Bulkcart", "furniture"<br/>
+<a href="#Output-1174248013" onClick='toggleBox("Output-1174248013", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1174248013" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1174248013">
+<div "result">intilize driver is done (PASSED : 1s)</div><br/>
+<div "result">url is to be set (PASSED : 6s)</div><br/>
+<div "result">click on bulkorders (PASSED : 8s)</div><br/>
+<div "result">click on buy bulk (PASSED : 2s)</div><br/>
+<div "result">set the driver as null (PASSED : 0s)</div><br/>
+</div>
+</td>
+<td></td>
+<td>19</td>
+<td>com.cucumber_comprensive_assessment.Runner.Runner@4678c730</td></tr>
+<tr>
+<td title='com.cucumber_comprensive_assessment.Runner.Runner.runScenario()'><b>runScenario</b><br>Test class: com.cucumber_comprensive_assessment.Runner.Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "cart opertions", "Furniture"<br/>
+<a href="#Output-324112183" onClick='toggleBox("Output-324112183", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-324112183" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-324112183">
+<div "result">driver is intilized (PASSED : 1s)</div><br/>
+<div "result">hit url (PASSED : 3s)</div><br/>
+<div "result">click on cart (PASSED : 1s)</div><br/>
+<div "result">click on continue shopping button (PASSED : 1s)</div><br/>
+<div "result">change driver to close state (PASSED : 0s)</div><br/>
+</div>
+</td>
+<td></td>
+<td>7</td>
+<td>com.cucumber_comprensive_assessment.Runner.Runner@4678c730</td></tr>
+<tr>
+<td title='com.cucumber_comprensive_assessment.Runner.Runner.runScenario()'><b>runScenario</b><br>Test class: com.cucumber_comprensive_assessment.Runner.Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "search products", "Furniture"<br/>
+<a href="#Output-1723290893" onClick='toggleBox("Output-1723290893", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1723290893" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1723290893">
+<div "result">intilize the browser (PASSED : 1s)</div><br/>
+<div "result">navigate to furniture website (PASSED : 4s)</div><br/>
+<div "result">click on search tab and give the beds (PASSED : 2s)</div><br/>
+<div "result">close the browser (PASSED : 0s)</div><br/>
+</div>
+</td>
+<td></td>
+<td>8</td>
+<td>com.cucumber_comprensive_assessment.Runner.Runner@4678c730</td></tr>
+<tr>
+<td title='com.cucumber_comprensive_assessment.Runner.Runner.runScenario()'><b>runScenario</b><br>Test class: com.cucumber_comprensive_assessment.Runner.Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "search products", "Furniture"<br/>
+<a href="#Output-725832346" onClick='toggleBox("Output-725832346", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-725832346" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-725832346">
+<div "result">intilize the browser (PASSED : 1s)</div><br/>
+<div "result">navigate to furniture website (PASSED : 3s)</div><br/>
+<div "result">click on search tab and give the study tables (PASSED : 4s)</div><br/>
+<div "result">close the browser (PASSED : 0s)</div><br/>
+</div>
+</td>
+<td></td>
+<td>9</td>
+<td>com.cucumber_comprensive_assessment.Runner.Runner@4678c730</td></tr>
+<tr>
+<td title='com.cucumber_comprensive_assessment.Runner.Runner.runScenario()'><b>runScenario</b><br>Test class: com.cucumber_comprensive_assessment.Runner.Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "login", "furniture"<br/>
+<a href="#Output-96039159" onClick='toggleBox("Output-96039159", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-96039159" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-96039159">
+<div "result">driver is set (PASSED : 1s)</div><br/>
+<div "result">send the url (PASSED : 5s)</div><br/>
+<div "result">click on tractorder (PASSED : 7s)</div><br/>
+<div "result">click on login button (PASSED : 2s)</div><br/>
+<div "result">give emailaddress as &quot;anushaandhavarapu2@gmail.com&quot; and password as &quot;Anusha@123&quot; (PASSED : 0s)</div><br/>
+<div "result">click on submit button (PASSED : 1s)</div><br/>
+<div "result">close driver tab (PASSED : 0s)</div><br/>
+</div>
+</td>
+<td></td>
+<td>19</td>
+<td>com.cucumber_comprensive_assessment.Runner.Runner@4678c730</td></tr>
+<tr>
+<td title='com.cucumber_comprensive_assessment.Runner.Runner.runScenario()'><b>runScenario</b><br>Test class: com.cucumber_comprensive_assessment.Runner.Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "signup", "furniture"<br/>
+<a href="#Output-1413886135" onClick='toggleBox("Output-1413886135", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1413886135" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1413886135">
+<div "result">setting driver (PASSED : 1s)</div><br/>
+<div "result">setting the url; (PASSED : 7s)</div><br/>
+<div "result">tab on trackorder (PASSED : 8s)</div><br/>
+<div "result">tab on loginbutton (PASSED : 1s)</div><br/>
+<div "result">tab on signup (PASSED : 0s)</div><br/>
+<div "result">send the email as &quot;anushaandhavarapu2@gmail.com&quot; and password as &quot;Anusha@123&quot; (PASSED : 0s)</div><br/>
+<div "result">tab on submit button (PASSED : 0s)</div><br/>
+<div "result">closing the driver (PASSED : 0s)</div><br/>
+</div>
+</td>
+<td></td>
+<td>20</td>
+<td>com.cucumber_comprensive_assessment.Runner.Runner@4678c730</td></tr>
+<tr>
+<td title='com.cucumber_comprensive_assessment.Runner.Runner.runScenario()'><b>runScenario</b><br>Test class: com.cucumber_comprensive_assessment.Runner.Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "validation", "furniture"<br/>
+<a href="#Output-651235118" onClick='toggleBox("Output-651235118", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-651235118" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-651235118">
+<div "result">driver intilization (PASSED : 1s)</div><br/>
+<div "result">url sending to browser (PASSED : 3s)</div><br/>
+<div "result">click on all nav items (PASSED : 0s)</div><br/>
+<div "result">close the driver set it to null (PASSED : 0s)</div><br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.cucumber_comprensive_assessment.Runner.Runner@4678c730</td></tr>
+<tr>
+<td title='com.cucumber_comprensive_assessment.Runner.Runner.runScenario()'><b>runScenario</b><br>Test class: com.cucumber_comprensive_assessment.Runner.Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "payment", "furniture"<br/>
+<a href="#Output-1933077874" onClick='toggleBox("Output-1933077874", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1933077874" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1933077874">
+<div "result">first we intilize driver (PASSED : 1s)</div><br/>
+<div "result">we should send url (PASSED : 3s)</div><br/>
+<div "result">read all the payment modes (PASSED : 0s)</div><br/>
+<div "result">shut down the driver (PASSED : 0s)</div><br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.cucumber_comprensive_assessment.Runner.Runner@4678c730</td></tr>
+<tr>
+<td title='com.cucumber_comprensive_assessment.Runner.Runner.runScenario()'><b>runScenario</b><br>Test class: com.cucumber_comprensive_assessment.Runner.Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "popular products", "Furniture"<br/>
+<a href="#Output-1840940155" onClick='toggleBox("Output-1840940155", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1840940155" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1840940155">
+<div "result">driver gets intilized (PASSED : 1s)</div><br/>
+<div "result">send the url to browser (PASSED : 3s)</div><br/>
+<div "result">click on about us (PASSED : 1s)</div><br/>
+<div "result">read the text from the page (PASSED : 0s)</div><br/>
+<div "result">exit the driver (PASSED : 0s)</div><br/>
+</div>
+</td>
+<td></td>
+<td>6</td>
+<td>com.cucumber_comprensive_assessment.Runner.Runner@4678c730</td></tr>
+</table><p>
+</body>
+</html>

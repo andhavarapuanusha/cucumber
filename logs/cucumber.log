@@ -1,0 +1,1059 @@
+2021-09-25 08:52:25,287  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-25 08:52:27,278  INFO [main] DriverClass:26 - url hited
+ 2021-09-25 08:52:30,785  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-25 08:52:31,642  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-25 08:52:32,000  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-25 08:52:32,962  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-25 08:52:37,162  INFO [main] DriverClass:72 - driver closed
+ 2021-09-25 08:52:38,250  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-25 08:52:40,465  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-25 08:52:41,528  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-25 08:52:41,566  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-25 08:52:45,733  INFO [main] DriverClass:59 - driver closed
+ 2021-09-25 08:52:46,871  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-25 08:52:49,179  INFO [main] DriverClass:24 - url hitted
+ 2021-09-25 08:52:50,088  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-25 08:52:50,670  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-25 08:52:54,858  INFO [main] DriverClass:44 - driver closed
+ 2021-09-25 08:52:55,952  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 08:52:57,670  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 08:52:59,147  INFO [main] DriverClass:37 - searched
+ 2021-09-25 08:53:04,475  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 08:53:06,386  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 08:53:07,595  INFO [main] DriverClass:37 - searched
+ 2021-09-25 08:53:12,855  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (23b69332268289b6bc26c1b542575dd9)
+ 2021-09-25 08:53:14,894  INFO [main] DriverClass:25 - ChromeDriver: chrome on WINDOWS (23b69332268289b6bc26c1b542575dd9)
+ 2021-09-25 08:53:18,720  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-25 08:53:19,563  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-25 08:53:19,848  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-25 08:53:20,161  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-25 08:53:20,897  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-25 08:53:25,079  INFO [main] DriverClass:61 - closing browser
+ 2021-09-25 09:15:55,092  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-25 09:15:57,769  INFO [main] DriverClass:26 - url hited
+ 2021-09-25 09:16:01,219  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-25 09:16:02,313  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-25 09:16:02,869  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-25 09:16:04,964  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-25 09:16:05,193  INFO [main] DriverClass:72 - driver closed
+ 2021-09-25 09:16:06,525  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-25 09:16:08,786  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-25 09:16:10,092  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-25 09:16:10,134  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-25 09:16:10,321  INFO [main] DriverClass:59 - driver closed
+ 2021-09-25 09:16:11,686  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-25 09:16:13,649  INFO [main] DriverClass:24 - url hitted
+ 2021-09-25 09:16:14,979  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-25 09:16:16,137  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-25 09:16:16,313  INFO [main] DriverClass:44 - driver closed
+ 2021-09-25 09:16:17,498  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 09:16:20,006  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 09:16:21,781  INFO [main] DriverClass:37 - searched
+ 2021-09-25 09:16:23,240  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 09:16:26,342  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 09:16:27,836  INFO [main] DriverClass:37 - searched
+ 2021-09-25 09:16:29,302  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (8374bb3dfa1ea73388660df2d0b10078)
+ 2021-09-25 09:16:31,476  INFO [main] DriverClass:25 - url intilized
+ 2021-09-25 09:16:34,581  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-25 09:16:35,520  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-25 09:16:36,313  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-25 09:16:36,703  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-25 09:16:37,421  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-25 09:16:41,656  INFO [main] DriverClass:61 - closing browser
+ 2021-09-25 09:16:42,917  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (64de2cf40c18ad7b1f44cd190c6a908d)
+ 2021-09-25 09:16:45,642  INFO [main] DriverClass:27 - url intilized
+ 2021-09-25 09:20:07,655  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-25 09:20:10,697  INFO [main] DriverClass:26 - url hited
+ 2021-09-25 09:20:14,118  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-25 09:20:15,110  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-25 09:20:15,682  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-25 09:20:17,162  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-25 09:20:17,376  INFO [main] DriverClass:72 - driver closed
+ 2021-09-25 09:20:18,753  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-25 09:20:21,008  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-25 09:20:22,151  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-25 09:20:22,214  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-25 09:20:26,378  INFO [main] DriverClass:59 - driver closed
+ 2021-09-25 09:20:27,653  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-25 09:20:32,070  INFO [main] DriverClass:24 - url hitted
+ 2021-09-25 09:20:33,473  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-25 09:20:34,396  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-25 09:20:34,644  INFO [main] DriverClass:44 - driver closed
+ 2021-09-25 09:20:36,017  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 09:20:38,140  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 09:20:39,595  INFO [main] DriverClass:37 - searched
+ 2021-09-25 09:20:41,110  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 09:20:43,406  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 09:20:44,935  INFO [main] DriverClass:37 - searched
+ 2021-09-25 09:20:46,400  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (af1798745bac24c69e4512c3acdfe1d0)
+ 2021-09-25 09:20:48,822  INFO [main] DriverClass:25 - url intilized
+ 2021-09-25 09:20:57,638  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-25 09:20:58,948  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-25 09:20:59,718  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-25 09:21:00,132  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-25 09:21:01,659  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-25 09:21:01,866  INFO [main] DriverClass:61 - closing browser
+ 2021-09-25 09:21:03,142  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (65ee7f3e6f0a4045cbd8eaa03feb798e)
+ 2021-09-25 09:21:06,452  INFO [main] DriverClass:28 - url intilized
+ 2021-09-25 09:24:27,781  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-25 09:24:30,886  INFO [main] DriverClass:26 - url hited
+ 2021-09-25 09:24:34,471  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-25 09:24:35,591  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-25 09:24:36,178  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-25 09:24:37,637  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-25 09:24:37,810  INFO [main] DriverClass:72 - driver closed
+ 2021-09-25 09:24:39,120  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-25 09:24:41,626  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-25 09:24:42,645  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-25 09:24:42,712  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-25 09:24:42,909  INFO [main] DriverClass:59 - driver closed
+ 2021-09-25 09:24:44,177  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-25 09:24:45,846  INFO [main] DriverClass:24 - url hitted
+ 2021-09-25 09:24:46,827  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-25 09:24:47,813  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-25 09:24:47,957  INFO [main] DriverClass:44 - driver closed
+ 2021-09-25 09:24:49,256  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 09:24:51,393  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 09:24:53,004  INFO [main] DriverClass:37 - searched
+ 2021-09-25 09:24:54,496  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 09:24:56,310  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 09:24:58,877  INFO [main] DriverClass:37 - searched
+ 2021-09-25 09:25:00,381  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (8dbf0d36fd83fe7df622ca4619fa56c7)
+ 2021-09-25 09:25:02,042  INFO [main] DriverClass:25 - url intilized
+ 2021-09-25 09:25:05,322  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-25 09:25:06,268  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-25 09:25:07,145  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-25 09:25:07,552  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-25 09:25:08,497  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-25 09:25:08,673  INFO [main] DriverClass:61 - closing browser
+ 2021-09-25 09:25:09,950  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (2189f83df8100eea545068d4a7e0279b)
+ 2021-09-25 09:25:11,983  INFO [main] DriverClass:28 - url intilized
+ 2021-09-25 09:26:38,514  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-25 09:26:48,341  INFO [main] DriverClass:26 - url hited
+ 2021-09-25 09:26:51,750  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-25 09:26:52,951  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-25 09:26:53,672  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-25 09:26:54,934  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-25 09:26:55,119  INFO [main] DriverClass:72 - driver closed
+ 2021-09-25 09:26:56,396  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-25 09:26:58,152  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-25 09:26:59,196  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-25 09:26:59,260  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-25 09:26:59,443  INFO [main] DriverClass:59 - driver closed
+ 2021-09-25 09:27:00,733  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-25 09:27:02,562  INFO [main] DriverClass:24 - url hitted
+ 2021-09-25 09:27:03,792  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-25 09:27:04,556  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-25 09:27:04,700  INFO [main] DriverClass:44 - driver closed
+ 2021-09-25 09:27:05,995  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 09:27:07,819  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 09:27:09,288  INFO [main] DriverClass:37 - searched
+ 2021-09-25 09:27:10,738  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 09:27:12,513  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 09:27:14,107  INFO [main] DriverClass:37 - searched
+ 2021-09-25 09:27:15,533  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (43b2ca15d2e4b1b8d62361cdfdb54a7e)
+ 2021-09-25 09:27:17,339  INFO [main] DriverClass:25 - url intilized
+ 2021-09-25 09:27:20,500  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-25 09:27:21,393  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-25 09:27:21,816  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-25 09:27:22,329  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-25 09:27:23,202  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-25 09:27:23,407  INFO [main] DriverClass:61 - closing browser
+ 2021-09-25 09:27:24,674  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (8a38e19d25bc87611895ce167ef69336)
+ 2021-09-25 09:27:26,449  INFO [main] DriverClass:28 - url intilized
+ 2021-09-25 09:27:26,738  INFO [main] DriverClass:40 - clciked on living room
+ 2021-09-25 15:25:21,052  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-25 15:25:38,905  INFO [main] DriverClass:26 - url hited
+ 2021-09-25 15:25:41,514  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-25 15:25:43,532  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-25 15:25:44,652  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-25 15:25:44,703  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-25 15:25:44,862  INFO [main] DriverClass:59 - driver closed
+ 2021-09-25 15:25:46,069  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (4f8053c0defb06f680a11d121507ff90)
+ 2021-09-25 15:25:48,336  INFO [main] DriverClass:28 - url hitted
+ 2021-09-25 15:25:49,783  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-25 15:25:51,985  INFO [main] DriverClass:24 - url hitted
+ 2021-09-25 15:25:53,057  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-25 15:25:53,699  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-25 15:25:57,837  INFO [main] DriverClass:44 - driver closed
+ 2021-09-25 15:25:59,160  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 15:26:03,079  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 15:26:04,944  INFO [main] DriverClass:37 - searched
+ 2021-09-25 15:26:06,499  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 15:26:09,680  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 15:26:12,502  INFO [main] DriverClass:37 - searched
+ 2021-09-25 15:26:13,984  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (889bda121ee112d1cea6350fb4f90d6d)
+ 2021-09-25 15:26:17,208  INFO [main] DriverClass:25 - url intilized
+ 2021-09-25 15:26:25,765  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-25 15:26:26,098  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-25 15:26:31,611  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (7211942c145fdd568d7f72c6528bf2d1)
+ 2021-09-25 15:26:35,129  INFO [main] DriverClass:28 - url intilized
+ 2021-09-25 15:26:35,463  INFO [main] DriverClass:40 - clciked on living room
+ 2021-09-25 15:27:24,596  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-25 15:27:32,099  INFO [main] DriverClass:26 - url hited
+ 2021-09-25 15:27:36,197  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-25 15:27:37,182  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-25 15:27:37,689  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-25 15:27:39,097  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-25 15:27:39,382  INFO [main] DriverClass:72 - driver closed
+ 2021-09-25 15:27:40,668  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-25 15:27:44,795  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-25 15:27:45,778  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-25 15:27:45,833  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-25 15:27:46,018  INFO [main] DriverClass:59 - driver closed
+ 2021-09-25 15:27:47,301  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (dc1f33f5042e0c1ec2dd979936ef8e06)
+ 2021-09-25 15:27:49,547  INFO [main] DriverClass:28 - url hitted
+ 2021-09-25 15:27:51,154  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-25 15:27:53,227  INFO [main] DriverClass:24 - url hitted
+ 2021-09-25 15:27:54,207  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-25 15:27:54,904  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-25 15:27:55,061  INFO [main] DriverClass:44 - driver closed
+ 2021-09-25 15:27:56,261  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 15:27:58,314  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 15:27:59,952  INFO [main] DriverClass:37 - searched
+ 2021-09-25 15:28:01,416  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 15:28:03,335  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 15:28:05,139  INFO [main] DriverClass:37 - searched
+ 2021-09-25 15:28:06,720  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (1930e8ac9c18b0743ecfda931e8f6163)
+ 2021-09-25 15:28:08,486  INFO [main] DriverClass:25 - url intilized
+ 2021-09-25 15:28:12,352  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-25 15:28:13,412  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-25 15:28:14,151  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-25 15:28:14,551  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-25 15:28:15,550  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-25 15:28:15,764  INFO [main] DriverClass:61 - closing browser
+ 2021-09-25 15:28:17,099  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (9be6adc21d99a9e1a7d043f0c2689e01)
+ 2021-09-25 15:28:18,947  INFO [main] DriverClass:28 - url intilized
+ 2021-09-25 15:28:19,256  INFO [main] DriverClass:40 - clciked on living room
+ 2021-09-25 15:31:30,902  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-25 15:31:33,898  INFO [main] DriverClass:26 - url hited
+ 2021-09-25 15:31:37,029  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-25 15:31:38,059  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-25 15:31:38,652  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-25 15:31:40,047  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-25 15:31:40,245  INFO [main] DriverClass:72 - driver closed
+ 2021-09-25 15:31:41,574  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-25 15:31:45,395  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-25 15:31:46,652  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-25 15:31:46,697  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-25 15:31:46,849  INFO [main] DriverClass:59 - driver closed
+ 2021-09-25 15:31:48,123  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (e436d9591b4db6d27218039be5883b7c)
+ 2021-09-25 15:31:49,719  INFO [main] DriverClass:28 - url hitted
+ 2021-09-25 15:31:51,331  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-25 15:31:53,452  INFO [main] DriverClass:24 - url hitted
+ 2021-09-25 15:31:55,096  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-25 15:31:55,886  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-25 15:31:56,092  INFO [main] DriverClass:44 - driver closed
+ 2021-09-25 15:31:57,351  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 15:31:59,485  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 15:32:01,646  INFO [main] DriverClass:37 - searched
+ 2021-09-25 15:32:07,201  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 15:32:14,991  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 15:32:18,519  INFO [main] DriverClass:37 - searched
+ 2021-09-25 15:32:23,933  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (357ac3e4e45820ed33a627f0f4c75604)
+ 2021-09-25 15:32:27,342  INFO [main] DriverClass:25 - url intilized
+ 2021-09-25 15:32:30,702  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-25 15:32:31,771  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-25 15:32:32,221  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-25 15:32:32,898  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-25 15:32:33,875  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-25 15:32:34,104  INFO [main] DriverClass:61 - closing browser
+ 2021-09-25 15:32:35,401  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (a8a1603c165dcd0cbcac52d792a5e233)
+ 2021-09-25 15:32:37,362  INFO [main] DriverClass:28 - url intilized
+ 2021-09-25 15:32:37,661  INFO [main] DriverClass:40 - clciked on living room
+ 2021-09-25 15:33:02,131  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-25 15:33:04,295  INFO [main] DriverClass:26 - url hited
+ 2021-09-25 15:33:07,580  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-25 15:33:09,015  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-25 15:33:09,635  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-25 15:33:10,930  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-25 15:33:15,125  INFO [main] DriverClass:72 - driver closed
+ 2021-09-25 15:33:16,399  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-25 15:33:20,263  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-25 15:33:21,502  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-25 15:33:21,559  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-25 15:33:21,709  INFO [main] DriverClass:59 - driver closed
+ 2021-09-25 15:33:23,001  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (6f3d78cd4bc7d598dc2ec2ea52bc21a4)
+ 2021-09-25 15:33:25,021  INFO [main] DriverClass:28 - url hitted
+ 2021-09-25 15:33:26,436  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-25 15:33:28,174  INFO [main] DriverClass:24 - url hitted
+ 2021-09-25 15:33:29,775  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-25 15:33:30,463  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-25 15:33:34,621  INFO [main] DriverClass:44 - driver closed
+ 2021-09-25 15:33:35,971  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 15:33:38,485  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 15:33:40,023  INFO [main] DriverClass:37 - searched
+ 2021-09-25 15:33:41,435  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 15:33:47,478  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 15:33:49,837  INFO [main] DriverClass:37 - searched
+ 2021-09-25 15:33:55,274  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (1b0ae2f5b152c473d7d3023a2b51be5a)
+ 2021-09-25 15:33:58,143  INFO [main] DriverClass:25 - url intilized
+ 2021-09-25 15:34:02,364  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-25 15:34:03,944  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-25 15:34:05,255  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-25 15:34:05,687  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-25 15:34:06,557  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-25 15:34:10,698  INFO [main] DriverClass:61 - closing browser
+ 2021-09-25 15:34:12,091  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (d17d5f59158833378f9f3c9bc14c2eea)
+ 2021-09-25 15:34:15,300  INFO [main] DriverClass:28 - url intilized
+ 2021-09-25 15:34:15,611  INFO [main] DriverClass:40 - clciked on living room
+ 2021-09-25 15:35:51,316  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-25 15:35:54,574  INFO [main] DriverClass:26 - url hited
+ 2021-09-25 15:35:57,944  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-25 15:35:59,060  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-25 15:35:59,636  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-25 15:36:01,272  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-25 15:36:01,492  INFO [main] DriverClass:72 - driver closed
+ 2021-09-25 15:36:02,785  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-25 15:36:04,436  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-25 15:36:05,474  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-25 15:36:05,522  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-25 15:36:05,687  INFO [main] DriverClass:59 - driver closed
+ 2021-09-25 15:36:06,951  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (914682b2ef11512f9391de72450d91be)
+ 2021-09-25 15:36:08,847  INFO [main] DriverClass:28 - url hitted
+ 2021-09-25 15:36:14,680  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-25 15:36:17,905  INFO [main] DriverClass:24 - url hitted
+ 2021-09-25 15:36:20,957  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-25 15:36:22,035  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-25 15:36:22,236  INFO [main] DriverClass:44 - driver closed
+ 2021-09-25 15:36:23,516  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 15:36:25,612  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 15:36:27,062  INFO [main] DriverClass:37 - searched
+ 2021-09-25 15:36:28,548  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 15:36:30,518  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 15:36:32,101  INFO [main] DriverClass:37 - searched
+ 2021-09-25 15:36:33,559  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (2861187123f9f32040d9e0b04270df07)
+ 2021-09-25 15:36:35,243  INFO [main] DriverClass:25 - url intilized
+ 2021-09-25 15:36:38,589  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-25 15:36:39,615  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-25 15:36:40,462  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-25 15:36:40,959  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-25 15:36:41,734  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-25 15:36:41,926  INFO [main] DriverClass:61 - closing browser
+ 2021-09-25 15:36:43,196  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (913d70202abf20408b813463419fc3c2)
+ 2021-09-25 15:36:45,255  INFO [main] DriverClass:28 - url intilized
+ 2021-09-25 15:36:45,553  INFO [main] DriverClass:40 - clciked on living room
+ 2021-09-25 15:44:04,740  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-25 15:44:12,524  INFO [main] DriverClass:26 - url hited
+ 2021-09-25 15:44:18,821  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-25 15:44:23,355  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-25 15:44:23,905  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-25 15:44:27,947  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-25 15:44:28,160  INFO [main] DriverClass:72 - driver closed
+ 2021-09-25 15:44:29,458  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-25 15:44:32,562  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-25 15:44:33,891  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-25 15:44:33,961  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-25 15:44:34,118  INFO [main] DriverClass:59 - driver closed
+ 2021-09-25 15:44:35,379  INFO [main] DriverClass:22 - ChromeDriver: chrome on WINDOWS (3b0c8ddcc0df6f39962af593f948d1cd)
+ 2021-09-25 15:44:37,091  INFO [main] DriverClass:30 - url hitted
+ 2021-09-25 15:44:43,239  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-25 15:44:48,408  INFO [main] DriverClass:24 - url hitted
+ 2021-09-25 15:44:49,384  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-25 15:44:50,297  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-25 15:44:50,491  INFO [main] DriverClass:44 - driver closed
+ 2021-09-25 15:44:51,779  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 15:44:54,327  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 15:45:02,109  INFO [main] DriverClass:37 - searched
+ 2021-09-25 15:45:07,610  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 15:45:16,091  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 15:45:18,523  INFO [main] DriverClass:37 - searched
+ 2021-09-25 15:45:19,975  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (5c374bf653fe1d48bb49db70a0f43a99)
+ 2021-09-25 15:45:21,801  INFO [main] DriverClass:25 - url intilized
+ 2021-09-25 15:45:25,021  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-25 15:45:26,633  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-25 15:45:27,015  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-25 15:45:27,444  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-25 15:45:27,588  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-25 15:45:31,718  INFO [main] DriverClass:61 - closing browser
+ 2021-09-25 15:45:33,121  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (70578c42eb4bab00312d14cd685a274b)
+ 2021-09-25 15:45:36,004  INFO [main] DriverClass:28 - url intilized
+ 2021-09-25 15:45:36,324  INFO [main] DriverClass:40 - clciked on living room
+ 2021-09-25 15:47:07,111  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-25 15:47:10,629  INFO [main] DriverClass:26 - url hited
+ 2021-09-25 15:47:14,791  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-25 15:47:15,869  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-25 15:47:16,447  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-25 15:47:17,504  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-25 15:47:17,706  INFO [main] DriverClass:72 - driver closed
+ 2021-09-25 15:47:18,988  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-25 15:47:20,890  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-25 15:47:22,003  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-25 15:47:22,043  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-25 15:47:22,216  INFO [main] DriverClass:59 - driver closed
+ 2021-09-25 15:47:23,492  INFO [main] DriverClass:22 - ChromeDriver: chrome on WINDOWS (5b8ab11c141b6f3fc33de377f70d9e45)
+ 2021-09-25 15:47:26,056  INFO [main] DriverClass:30 - url hitted
+ 2021-09-25 15:47:32,621  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-25 15:47:35,114  INFO [main] DriverClass:24 - url hitted
+ 2021-09-25 15:47:36,170  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-25 15:47:36,801  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-25 15:47:37,068  INFO [main] DriverClass:44 - driver closed
+ 2021-09-25 15:47:38,313  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 15:47:40,650  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 15:47:42,170  INFO [main] DriverClass:37 - searched
+ 2021-09-25 15:47:43,643  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 15:47:45,707  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 15:47:47,472  INFO [main] DriverClass:37 - searched
+ 2021-09-25 15:47:48,962  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (01a1e3c7c63f64a17afc68afdf2afb8e)
+ 2021-09-25 15:47:51,300  INFO [main] DriverClass:25 - url intilized
+ 2021-09-25 15:47:56,962  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-25 15:47:58,162  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-25 15:47:59,343  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-25 15:47:59,849  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-25 15:48:00,623  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-25 15:48:00,818  INFO [main] DriverClass:61 - closing browser
+ 2021-09-25 15:48:02,096  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (8165693543b3c0c999ffca97648ab90a)
+ 2021-09-25 15:48:04,009  INFO [main] DriverClass:28 - url intilized
+ 2021-09-25 15:48:04,305  INFO [main] DriverClass:40 - clciked on living room
+ 2021-09-25 15:50:12,655  INFO [main] DriverClass:22 - ChromeDriver: chrome on WINDOWS (bf86c66fa5c431ea99c2812f332daf51)
+ 2021-09-25 15:50:15,933  INFO [main] DriverClass:30 - url hitted
+ 2021-09-25 15:50:22,052  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-25 15:50:23,865  INFO [main] DriverClass:24 - url hitted
+ 2021-09-25 15:50:25,281  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-25 15:50:25,975  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-25 15:50:26,132  INFO [main] DriverClass:44 - driver closed
+ 2021-09-25 15:50:27,322  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 15:50:29,620  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 15:50:33,163  INFO [main] DriverClass:37 - searched
+ 2021-09-25 15:50:38,609  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 15:50:41,526  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 15:50:43,590  INFO [main] DriverClass:37 - searched
+ 2021-09-25 15:50:45,489  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-25 15:50:47,900  INFO [main] DriverClass:26 - url hited
+ 2021-09-25 15:50:51,353  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-25 15:50:52,398  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-25 15:50:52,855  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-25 15:50:53,992  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-25 15:50:58,136  INFO [main] DriverClass:72 - driver closed
+ 2021-09-25 15:50:59,660  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (364a892745bcab2f2fa68b2f5d1bf82e)
+ 2021-09-25 15:51:02,635  INFO [main] DriverClass:25 - url intilized
+ 2021-09-25 15:51:05,953  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-25 15:51:06,999  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-25 15:51:07,744  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-25 15:51:08,337  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-25 15:51:09,294  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-25 15:51:09,439  INFO [main] DriverClass:61 - closing browser
+ 2021-09-25 15:51:10,713  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (8d103d0a60a044f5c0d1604d867621c2)
+ 2021-09-25 15:51:24,915  INFO [main] DriverClass:28 - url intilized
+ 2021-09-25 15:51:25,236  INFO [main] DriverClass:40 - clciked on living room
+ 2021-09-25 15:51:30,808  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-25 15:51:34,149  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-25 15:51:35,809  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-25 15:51:35,861  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-25 15:51:36,061  INFO [main] DriverClass:59 - driver closed
+ 2021-09-25 15:54:03,773  INFO [main] DriverClass:22 - ChromeDriver: chrome on WINDOWS (57216defdd9f6bacc51598948cf3ea0a)
+ 2021-09-25 15:54:07,285  INFO [main] DriverClass:30 - url hitted
+ 2021-09-25 15:54:13,435  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-25 15:54:15,118  INFO [main] DriverClass:24 - url hitted
+ 2021-09-25 15:54:15,969  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-25 15:54:16,885  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-25 15:54:17,064  INFO [main] DriverClass:44 - driver closed
+ 2021-09-25 15:54:18,346  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 15:54:20,054  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 15:54:22,120  INFO [main] DriverClass:37 - searched
+ 2021-09-25 15:54:23,666  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 15:54:25,832  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 15:54:27,799  INFO [main] DriverClass:37 - searched
+ 2021-09-25 15:54:29,335  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-25 15:54:30,889  INFO [main] DriverClass:26 - url hited
+ 2021-09-25 15:54:34,157  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-25 15:54:35,300  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-25 15:54:35,868  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-25 15:54:37,661  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-25 15:54:37,850  INFO [main] DriverClass:72 - driver closed
+ 2021-09-25 15:54:39,144  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (90eb65897543b4879d9e444c74b0e4a9)
+ 2021-09-25 15:54:41,031  INFO [main] DriverClass:25 - url intilized
+ 2021-09-25 15:54:43,954  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-25 15:54:45,231  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-25 15:54:45,619  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-25 15:54:46,166  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-25 15:54:46,297  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-25 15:54:46,447  INFO [main] DriverClass:61 - closing browser
+ 2021-09-25 15:54:47,733  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (e6d59013a3e86e8adeeb137aebe3f8e4)
+ 2021-09-25 15:54:50,017  INFO [main] DriverClass:28 - url intilized
+ 2021-09-25 15:54:50,344  INFO [main] DriverClass:40 - clciked on living room
+ 2021-09-25 15:54:51,788  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-25 15:54:53,602  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-25 15:54:54,894  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-25 15:54:54,967  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-25 15:54:55,138  INFO [main] DriverClass:59 - driver closed
+ 2021-09-25 15:58:33,621  INFO [main] DriverClass:22 - ChromeDriver: chrome on WINDOWS (2c2c819996ee65241b41a1531d8bc84d)
+ 2021-09-25 15:58:36,325  INFO [main] DriverClass:30 - url hitted
+ 2021-09-25 15:58:42,811  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-25 15:58:44,669  INFO [main] DriverClass:24 - url hitted
+ 2021-09-25 15:58:45,665  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-25 15:58:46,599  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-25 15:58:50,773  INFO [main] DriverClass:44 - driver closed
+ 2021-09-25 15:58:52,240  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 15:58:54,414  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 15:58:56,443  INFO [main] DriverClass:37 - searched
+ 2021-09-25 15:58:57,992  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 15:59:00,322  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 15:59:02,419  INFO [main] DriverClass:37 - searched
+ 2021-09-25 15:59:07,774  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-25 15:59:10,544  INFO [main] DriverClass:26 - url hited
+ 2021-09-25 15:59:14,122  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-25 15:59:15,928  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-25 15:59:16,852  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-25 15:59:18,110  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-25 15:59:18,302  INFO [main] DriverClass:72 - driver closed
+ 2021-09-25 15:59:19,589  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (76ab42fdbbc3e4ac9c64d599742dc508)
+ 2021-09-25 15:59:21,752  INFO [main] DriverClass:25 - url intilized
+ 2021-09-25 15:59:25,094  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-25 15:59:26,064  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-25 15:59:26,499  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-25 15:59:26,992  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-25 15:59:27,734  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-25 15:59:27,874  INFO [main] DriverClass:61 - closing browser
+ 2021-09-25 15:59:29,174  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (89de7223475f740d71b7aa4fd3dbdcf0)
+ 2021-09-25 15:59:30,828  INFO [main] DriverClass:28 - url intilized
+ 2021-09-25 15:59:31,143  INFO [main] DriverClass:40 - clciked on living room
+ 2021-09-25 15:59:32,628  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-25 15:59:34,576  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-25 15:59:36,075  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-25 15:59:36,116  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-25 15:59:36,277  INFO [main] DriverClass:59 - driver closed
+ 2021-09-25 15:59:53,357  INFO [main] DriverClass:22 - ChromeDriver: chrome on WINDOWS (50d54f636e681b0922092b11beabfaa9)
+ 2021-09-25 15:59:56,009  INFO [main] DriverClass:30 - url hitted
+ 2021-09-25 16:00:02,047  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-25 16:00:04,243  INFO [main] DriverClass:24 - url hitted
+ 2021-09-25 16:00:05,199  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-25 16:00:06,022  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-25 16:00:06,194  INFO [main] DriverClass:44 - driver closed
+ 2021-09-25 16:00:07,514  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 16:00:09,771  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 16:00:11,418  INFO [main] DriverClass:37 - searched
+ 2021-09-25 16:00:12,887  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 16:00:15,549  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 16:00:17,127  INFO [main] DriverClass:37 - searched
+ 2021-09-25 16:00:18,574  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-25 16:00:21,016  INFO [main] DriverClass:26 - url hited
+ 2021-09-25 16:00:24,311  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-25 16:00:25,273  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-25 16:00:25,865  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-25 16:00:27,412  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-25 16:00:27,630  INFO [main] DriverClass:72 - driver closed
+ 2021-09-25 16:00:28,933  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (4fe46c82896f8c80f2d9ce3106735731)
+ 2021-09-25 16:00:30,975  INFO [main] DriverClass:25 - url intilized
+ 2021-09-25 16:00:34,118  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-25 16:00:35,149  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-25 16:00:35,902  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-25 16:00:36,265  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-25 16:00:37,077  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-25 16:00:37,280  INFO [main] DriverClass:61 - closing browser
+ 2021-09-25 16:00:38,571  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (bd9449b3b59f564f8fa1a9537ec1bc66)
+ 2021-09-25 16:00:40,768  INFO [main] DriverClass:28 - url intilized
+ 2021-09-25 16:00:41,055  INFO [main] DriverClass:40 - clciked on living room
+ 2021-09-25 16:00:42,616  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-25 16:00:44,410  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-25 16:00:45,405  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-25 16:00:45,470  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-25 16:00:45,647  INFO [main] DriverClass:59 - driver closed
+ 2021-09-25 16:23:22,900  INFO [main] DriverClass:22 - ChromeDriver: chrome on WINDOWS (b5c7485a6f1643731add7cb2298c7951)
+ 2021-09-25 16:23:27,544  INFO [main] DriverClass:30 - url hitted
+ 2021-09-25 16:23:34,051  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-25 16:23:35,972  INFO [main] DriverClass:24 - url hitted
+ 2021-09-25 16:23:37,195  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-25 16:23:37,937  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-25 16:23:38,112  INFO [main] DriverClass:44 - driver closed
+ 2021-09-25 16:23:39,393  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 16:23:42,529  INFO [main] DriverClass:25 - navigated to website
+ 2021-09-25 16:23:44,480  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 16:23:46,320  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 16:23:48,326  INFO [main] DriverClass:37 - searched
+ 2021-09-25 16:23:53,725  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 16:23:55,555  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 16:23:57,168  INFO [main] DriverClass:37 - searched
+ 2021-09-25 16:23:58,629  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-25 16:24:00,540  INFO [main] DriverClass:26 - url hited
+ 2021-09-25 16:24:03,797  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-25 16:24:04,721  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-25 16:24:05,275  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-25 16:24:06,547  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-25 16:24:06,762  INFO [main] DriverClass:72 - driver closed
+ 2021-09-25 16:24:08,049  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (7bb8ce6d302ec546af091b7028bf224a)
+ 2021-09-25 16:24:09,936  INFO [main] DriverClass:25 - url intilized
+ 2021-09-25 16:24:13,587  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-25 16:24:14,563  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-25 16:24:15,416  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-25 16:24:15,831  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-25 16:24:16,750  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-25 16:24:16,968  INFO [main] DriverClass:61 - closing browser
+ 2021-09-25 16:24:18,278  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (363c293e5a13d83bffe11f2c03573aa6)
+ 2021-09-25 16:24:19,956  INFO [main] DriverClass:28 - url intilized
+ 2021-09-25 16:24:20,268  INFO [main] DriverClass:40 - clciked on living room
+ 2021-09-25 16:24:21,784  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-25 16:24:23,701  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-25 16:24:24,987  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-25 16:24:25,037  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-25 16:24:25,212  INFO [main] DriverClass:59 - driver closed
+ 2021-09-25 16:36:20,415  INFO [main] DriverClass:22 - ChromeDriver: chrome on WINDOWS (a55f0abce63ec68d923d6a0b6d29ab4d)
+ 2021-09-25 16:36:22,885  INFO [main] DriverClass:30 - url hitted
+ 2021-09-25 16:36:29,745  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-25 16:36:32,327  INFO [main] DriverClass:24 - url hitted
+ 2021-09-25 16:36:33,340  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-25 16:36:34,206  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-25 16:36:34,416  INFO [main] DriverClass:44 - driver closed
+ 2021-09-25 16:36:35,653  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 16:36:37,317  INFO [main] DriverClass:25 - navigated to website
+ 2021-09-25 16:36:39,297  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 16:36:41,422  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 16:36:43,015  INFO [main] DriverClass:37 - searched
+ 2021-09-25 16:36:44,639  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 16:36:46,452  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 16:36:47,945  INFO [main] DriverClass:37 - searched
+ 2021-09-25 16:36:49,330  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-25 16:36:51,326  INFO [main] DriverClass:26 - url hited
+ 2021-09-25 16:36:54,459  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-25 16:36:55,532  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-25 16:36:56,040  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-25 16:36:57,323  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-25 16:36:57,477  INFO [main] DriverClass:72 - driver closed
+ 2021-09-25 16:36:58,794  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (84f75866fffeba4f9f531ecd5a10d106)
+ 2021-09-25 16:37:00,601  INFO [main] DriverClass:25 - url intilized
+ 2021-09-25 16:37:06,080  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-25 16:37:08,298  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-25 16:37:09,343  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-25 16:37:09,845  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-25 16:37:10,975  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-25 16:37:11,174  INFO [main] DriverClass:61 - closing browser
+ 2021-09-25 16:37:12,494  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (13d4c6affef71382dc298cb9a4618fce)
+ 2021-09-25 16:37:14,580  INFO [main] DriverClass:28 - url intilized
+ 2021-09-25 16:37:14,895  INFO [main] DriverClass:40 - clciked on living room
+ 2021-09-25 16:37:16,370  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-25 16:37:18,540  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-25 16:37:19,671  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-25 16:37:19,719  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-25 16:37:19,929  INFO [main] DriverClass:59 - driver closed
+ 2021-09-25 17:05:31,530  INFO [main] DriverClass:25 - ChromeDriver: chrome on WINDOWS (e3f83b6934a8dfa498e5d7f4d1bbe266)
+ 2021-09-25 17:05:34,759  INFO [main] DriverClass:33 - url hitted
+ 2021-09-25 17:05:41,267  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-25 17:05:48,491  INFO [main] DriverClass:24 - url hitted
+ 2021-09-25 17:05:51,379  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-25 17:05:54,156  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-25 17:05:58,249  INFO [main] DriverClass:44 - driver closed
+ 2021-09-25 17:05:59,583  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 17:06:02,672  INFO [main] DriverClass:25 - navigated to website
+ 2021-09-25 17:06:04,633  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 17:06:06,718  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 17:06:08,538  INFO [main] DriverClass:37 - searched
+ 2021-09-25 17:06:10,151  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 17:06:11,929  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 17:06:13,649  INFO [main] DriverClass:37 - searched
+ 2021-09-25 17:06:15,114  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-25 17:06:17,630  INFO [main] DriverClass:26 - url hited
+ 2021-09-25 17:06:20,921  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-25 17:06:21,856  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-25 17:06:22,462  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-25 17:06:23,863  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-25 17:06:24,097  INFO [main] DriverClass:72 - driver closed
+ 2021-09-25 17:06:25,342  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (6f2670221a711fb076897a36a6b2157d)
+ 2021-09-25 17:06:27,713  INFO [main] DriverClass:25 - url intilized
+ 2021-09-25 17:06:30,844  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-25 17:06:31,965  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-25 17:06:32,704  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-25 17:06:33,207  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-25 17:06:34,059  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-25 17:06:34,244  INFO [main] DriverClass:61 - closing browser
+ 2021-09-25 17:06:35,535  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (b9e1c2304a223a6c4a6cd64aafc5b3d1)
+ 2021-09-25 17:06:39,448  INFO [main] DriverClass:28 - url intilized
+ 2021-09-25 17:06:39,758  INFO [main] DriverClass:40 - clciked on living room
+ 2021-09-25 17:06:41,276  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-25 17:06:43,444  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-25 17:06:44,609  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-25 17:06:44,653  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-25 17:06:44,851  INFO [main] DriverClass:59 - driver closed
+ 2021-09-25 18:08:02,407  INFO [main] DriverClass:25 - ChromeDriver: chrome on WINDOWS (658189d1bcc8dab3e3e8a294f98a89db)
+ 2021-09-25 18:08:05,673  INFO [main] DriverClass:33 - url hitted
+ 2021-09-25 18:08:13,654  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-25 18:08:15,553  INFO [main] DriverClass:24 - url hitted
+ 2021-09-25 18:08:16,939  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-25 18:08:17,682  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-25 18:08:17,906  INFO [main] DriverClass:44 - driver closed
+ 2021-09-25 18:08:19,173  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 18:08:21,169  INFO [main] DriverClass:25 - navigated to website
+ 2021-09-25 18:08:23,215  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 18:08:25,392  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 18:08:26,770  INFO [main] DriverClass:37 - searched
+ 2021-09-25 18:08:28,232  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 18:08:30,246  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 18:08:32,124  INFO [main] DriverClass:37 - searched
+ 2021-09-25 18:08:33,667  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-25 18:08:35,764  INFO [main] DriverClass:26 - url hited
+ 2021-09-25 18:08:38,915  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-25 18:08:39,840  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-25 18:08:40,431  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-25 18:08:41,863  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-25 18:08:42,090  INFO [main] DriverClass:72 - driver closed
+ 2021-09-25 18:08:43,386  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (c49d7169ca880f5c4a20a4b618a9c983)
+ 2021-09-25 18:08:45,463  INFO [main] DriverClass:25 - url intilized
+ 2021-09-25 18:08:48,509  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-25 18:08:51,591  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-25 18:08:51,963  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-25 18:08:52,420  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-25 18:08:52,542  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-25 18:08:52,753  INFO [main] DriverClass:61 - closing browser
+ 2021-09-25 18:08:54,057  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (021a90b51a12890bcde03cd319075882)
+ 2021-09-25 18:08:56,875  INFO [main] DriverClass:28 - url intilized
+ 2021-09-25 18:08:57,168  INFO [main] DriverClass:40 - clciked on living room
+ 2021-09-25 18:08:58,653  INFO [main] DriverClass:21 - driver gets intilized
+ 2021-09-25 18:09:00,687  INFO [main] DriverClass:28 - send the url to browser
+ 2021-09-25 18:09:00,961  INFO [main] DriverClass:50 - read all the payment modes is done
+ 2021-09-25 18:09:02,437  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-25 18:09:04,866  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-25 18:09:05,992  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-25 18:09:06,030  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-25 18:09:06,181  INFO [main] DriverClass:59 - driver closed
+ 2021-09-25 18:25:16,422  INFO [main] DriverClass:25 - ChromeDriver: chrome on WINDOWS (b92f182aaf20a791072f8739f85ad56e)
+ 2021-09-25 18:25:19,626  INFO [main] DriverClass:33 - url hitted
+ 2021-09-25 18:25:26,911  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-25 18:25:28,891  INFO [main] DriverClass:24 - url hitted
+ 2021-09-25 18:25:29,919  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-25 18:25:30,579  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-25 18:25:30,745  INFO [main] DriverClass:44 - driver closed
+ 2021-09-25 18:25:32,151  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 18:25:33,915  INFO [main] DriverClass:25 - navigated to website
+ 2021-09-25 18:25:35,937  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 18:25:38,204  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 18:25:40,485  INFO [main] DriverClass:37 - searched
+ 2021-09-25 18:25:41,979  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 18:25:44,180  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 18:25:46,068  INFO [main] DriverClass:37 - searched
+ 2021-09-25 18:25:47,626  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-25 18:25:49,448  INFO [main] DriverClass:26 - url hited
+ 2021-09-25 18:25:53,211  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-25 18:25:54,409  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-25 18:25:55,094  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-25 18:25:56,649  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-25 18:25:56,828  INFO [main] DriverClass:72 - driver closed
+ 2021-09-25 18:25:58,193  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (eda66d3e5b09d0c1cf18eeab5e5015d3)
+ 2021-09-25 18:26:00,020  INFO [main] DriverClass:25 - url intilized
+ 2021-09-25 18:26:03,563  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-25 18:26:05,861  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-25 18:26:06,358  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-25 18:26:06,866  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-25 18:26:07,019  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-25 18:26:07,223  INFO [main] DriverClass:61 - closing browser
+ 2021-09-25 18:26:08,596  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (7bdaa484392facd83188b33fc9ab5b71)
+ 2021-09-25 18:26:10,698  INFO [main] DriverClass:28 - url intilized
+ 2021-09-25 18:26:11,046  INFO [main] DriverClass:40 - clciked on living room
+ 2021-09-25 18:26:12,579  INFO [main] DriverClass:21 - driver gets intilized
+ 2021-09-25 18:26:14,649  INFO [main] DriverClass:28 - send the url to browser
+ 2021-09-25 18:26:14,923  INFO [main] DriverClass:50 - read all the payment modes is done
+ 2021-09-25 18:26:16,511  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-25 18:26:18,458  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-25 18:26:19,594  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-25 18:26:19,642  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-25 18:26:19,827  INFO [main] DriverClass:59 - driver closed
+ 2021-09-25 18:33:56,917  INFO [main] DriverClass:25 - ChromeDriver: chrome on WINDOWS (bfe48983235c9b0f32da5e4eab2b38ba)
+ 2021-09-25 18:34:00,415  INFO [main] DriverClass:33 - url hitted
+ 2021-09-25 18:34:09,682  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-25 18:34:11,519  INFO [main] DriverClass:24 - url hitted
+ 2021-09-25 18:34:12,626  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-25 18:34:13,334  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-25 18:34:13,543  INFO [main] DriverClass:44 - driver closed
+ 2021-09-25 18:34:14,918  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 18:34:17,372  INFO [main] DriverClass:25 - navigated to website
+ 2021-09-25 18:34:19,418  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 18:34:21,866  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 18:34:23,361  INFO [main] DriverClass:37 - searched
+ 2021-09-25 18:34:24,951  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 18:34:27,310  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 18:34:35,151  INFO [main] DriverClass:37 - searched
+ 2021-09-25 18:34:36,741  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-25 18:34:49,018  INFO [main] DriverClass:26 - url hited
+ 2021-09-25 18:34:55,084  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-25 18:34:56,468  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-25 18:34:57,185  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-25 18:34:59,760  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-25 18:34:59,981  INFO [main] DriverClass:72 - driver closed
+ 2021-09-25 18:35:01,383  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (ebc74a2fd5428acad12a69660a359ce2)
+ 2021-09-25 18:35:03,507  INFO [main] DriverClass:25 - url intilized
+ 2021-09-25 18:35:07,093  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-25 18:35:08,204  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-25 18:35:08,629  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-25 18:35:09,237  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-25 18:35:09,357  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-25 18:35:09,512  INFO [main] DriverClass:61 - closing browser
+ 2021-09-25 18:35:10,914  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (322337d0deee526465a937dd3b4e465f)
+ 2021-09-25 18:35:14,691  INFO [main] DriverClass:28 - url intilized
+ 2021-09-25 18:35:15,001  INFO [main] DriverClass:40 - clciked on living room
+ 2021-09-25 18:35:16,552  INFO [main] DriverClass:21 - driver gets intilized
+ 2021-09-25 18:35:27,970  INFO [main] DriverClass:28 - send the url to browser
+ 2021-09-25 18:35:28,216  INFO [main] DriverClass:50 - read all the payment modes is done
+ 2021-09-25 18:35:29,730  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-25 18:35:31,679  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-25 18:35:32,741  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-25 18:35:32,818  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-25 18:35:32,984  INFO [main] DriverClass:59 - driver closed
+ 2021-09-25 23:57:48,446  INFO [main] DriverClass:25 - ChromeDriver: chrome on WINDOWS (bdd2255d821117685210eac6cdcdb534)
+ 2021-09-25 23:57:51,916  INFO [main] DriverClass:33 - url hitted
+ 2021-09-25 23:57:59,057  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-25 23:58:02,020  INFO [main] DriverClass:24 - url hitted
+ 2021-09-25 23:58:03,537  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-25 23:58:04,461  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-25 23:58:04,655  INFO [main] DriverClass:44 - driver closed
+ 2021-09-25 23:58:05,970  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 23:58:09,150  INFO [main] DriverClass:25 - navigated to website
+ 2021-09-25 23:58:11,135  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 23:58:14,629  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 23:58:16,762  INFO [main] DriverClass:37 - searched
+ 2021-09-25 23:58:18,271  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-25 23:58:20,384  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-25 23:58:21,976  INFO [main] DriverClass:37 - searched
+ 2021-09-25 23:58:23,457  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-25 23:58:26,056  INFO [main] DriverClass:26 - url hited
+ 2021-09-25 23:58:29,793  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-25 23:58:30,695  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-25 23:58:31,201  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-25 23:58:32,678  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-25 23:58:32,907  INFO [main] DriverClass:72 - driver closed
+ 2021-09-25 23:58:34,198  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (8e6a4340bc14b42922c1aedc3a35ca03)
+ 2021-09-25 23:58:37,353  INFO [main] DriverClass:25 - url intilized
+ 2021-09-25 23:58:42,751  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-25 23:58:43,733  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-25 23:58:44,253  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-25 23:58:44,785  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-25 23:58:45,778  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-25 23:58:45,930  INFO [main] DriverClass:61 - closing browser
+ 2021-09-25 23:58:47,243  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (4029cf3f3001ead9aafb680d18b788e3)
+ 2021-09-25 23:58:50,517  INFO [main] DriverClass:28 - url intilized
+ 2021-09-25 23:58:50,857  INFO [main] DriverClass:40 - clciked on living room
+ 2021-09-25 23:58:52,328  INFO [main] DriverClass:21 - driver gets intilized
+ 2021-09-25 23:58:54,980  INFO [main] DriverClass:28 - send the url to browser
+ 2021-09-25 23:58:55,245  INFO [main] DriverClass:50 - read all the payment modes is done
+ 2021-09-25 23:58:56,722  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-25 23:58:58,909  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-25 23:59:00,544  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-25 23:59:00,620  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-25 23:59:00,750  INFO [main] DriverClass:59 - driver closed
+ 2021-09-26 00:02:16,628  INFO [main] DriverClass:25 - ChromeDriver: chrome on WINDOWS (1d9255b7ee5d4c14e8048a24b6fe1de6)
+ 2021-09-26 00:02:19,604  INFO [main] DriverClass:33 - url hitted
+ 2021-09-26 00:02:28,364  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-26 00:02:31,004  INFO [main] DriverClass:24 - url hitted
+ 2021-09-26 00:02:32,301  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-26 00:02:33,298  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-26 00:02:33,493  INFO [main] DriverClass:44 - driver closed
+ 2021-09-26 00:02:34,778  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-26 00:02:36,792  INFO [main] DriverClass:25 - navigated to website
+ 2021-09-26 00:02:38,785  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-26 00:02:41,187  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-26 00:02:43,477  INFO [main] DriverClass:37 - searched
+ 2021-09-26 00:02:49,037  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-26 00:02:52,231  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-26 00:02:53,601  INFO [main] DriverClass:37 - searched
+ 2021-09-26 00:02:55,018  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-26 00:02:57,260  INFO [main] DriverClass:26 - url hited
+ 2021-09-26 00:03:01,370  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-26 00:03:02,671  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-26 00:03:03,255  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-26 00:03:04,675  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-26 00:03:04,836  INFO [main] DriverClass:72 - driver closed
+ 2021-09-26 00:03:06,040  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (e7cd6469271f8a19fee89bdba71cc536)
+ 2021-09-26 00:03:08,471  INFO [main] DriverClass:25 - url intilized
+ 2021-09-26 00:03:12,450  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-26 00:03:13,835  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-26 00:03:14,154  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-26 00:03:14,803  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-26 00:03:14,951  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-26 00:03:15,125  INFO [main] DriverClass:61 - closing browser
+ 2021-09-26 00:03:16,497  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (5d77d671cd2c45b8a069366ef7594360)
+ 2021-09-26 00:03:18,777  INFO [main] DriverClass:28 - url intilized
+ 2021-09-26 00:03:19,077  INFO [main] DriverClass:40 - clciked on living room
+ 2021-09-26 00:03:24,526  INFO [main] DriverClass:21 - driver gets intilized
+ 2021-09-26 00:03:28,460  INFO [main] DriverClass:28 - send the url to browser
+ 2021-09-26 00:03:28,718  INFO [main] DriverClass:50 - read all the payment modes is done
+ 2021-09-26 00:03:30,155  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-26 00:03:32,729  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-26 00:03:33,872  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-26 00:03:33,913  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-26 00:03:34,116  INFO [main] DriverClass:59 - driver closed
+ 2021-09-26 00:05:06,646  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-26 00:05:09,975  INFO [main] DriverClass:25 - navigated to website
+ 2021-09-26 00:05:12,065  INFO [main] DriverClass:25 - ChromeDriver: chrome on WINDOWS (f52e8946ab0930b70270487bbd7a5d1c)
+ 2021-09-26 00:05:14,530  INFO [main] DriverClass:33 - url hitted
+ 2021-09-26 00:05:22,491  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-26 00:05:24,564  INFO [main] DriverClass:24 - url hitted
+ 2021-09-26 00:05:25,649  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-26 00:05:26,545  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-26 00:05:26,744  INFO [main] DriverClass:44 - driver closed
+ 2021-09-26 00:05:28,131  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-26 00:05:30,241  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-26 00:05:32,472  INFO [main] DriverClass:37 - searched
+ 2021-09-26 00:05:33,915  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-26 00:05:36,420  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-26 00:05:39,927  INFO [main] DriverClass:37 - searched
+ 2021-09-26 00:05:41,424  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-26 00:05:43,437  INFO [main] DriverClass:26 - url hited
+ 2021-09-26 00:05:47,524  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-26 00:05:49,172  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-26 00:05:49,683  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-26 00:05:51,213  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-26 00:05:55,382  INFO [main] DriverClass:72 - driver closed
+ 2021-09-26 00:05:56,819  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (aca50807a5be7141a34b181e9960481e)
+ 2021-09-26 00:05:59,780  INFO [main] DriverClass:25 - url intilized
+ 2021-09-26 00:06:03,868  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-26 00:06:05,087  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-26 00:06:05,901  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-26 00:06:06,289  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-26 00:06:07,415  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-26 00:06:07,581  INFO [main] DriverClass:61 - closing browser
+ 2021-09-26 00:06:08,897  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (2902ca0ed0d6f5dc28eb9fb4e4288608)
+ 2021-09-26 00:06:13,001  INFO [main] DriverClass:28 - url intilized
+ 2021-09-26 00:06:13,375  INFO [main] DriverClass:40 - clciked on living room
+ 2021-09-26 00:06:18,785  INFO [main] DriverClass:21 - driver gets intilized
+ 2021-09-26 00:06:20,912  INFO [main] DriverClass:28 - send the url to browser
+ 2021-09-26 00:06:21,206  INFO [main] DriverClass:50 - read all the payment modes is done
+ 2021-09-26 00:06:22,677  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-26 00:06:25,672  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-26 00:06:27,292  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-26 00:06:27,343  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-26 00:06:27,520  INFO [main] DriverClass:59 - driver closed
+ 2021-09-26 00:08:01,879  INFO [main] DriverClass:21 - driver intilized
+ 2021-09-26 00:08:05,914  INFO [main] DriverClass:27 - navigated to website
+ 2021-09-26 00:08:08,136  INFO [main] DriverClass:25 - ChromeDriver: chrome on WINDOWS (036bfcc9e63615c60040a315f0fad9ac)
+ 2021-09-26 00:08:10,912  INFO [main] DriverClass:33 - url hitted
+ 2021-09-26 00:08:21,778  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-26 00:08:23,860  INFO [main] DriverClass:24 - url hitted
+ 2021-09-26 00:08:25,215  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-26 00:08:26,879  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-26 00:08:28,405  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-26 00:08:30,108  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-26 00:08:31,428  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-26 00:08:32,627  INFO [main] DriverClass:26 - url hited
+ 2021-09-26 00:08:33,957  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (c30593ea8b81f33382a1e07897d49675)
+ 2021-09-26 00:08:36,105  INFO [main] DriverClass:25 - url intilized
+ 2021-09-26 00:08:36,948  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-26 00:08:38,270  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (94927b6943908fb512f19330134ff15d)
+ 2021-09-26 00:08:39,583  INFO [main] DriverClass:28 - url intilized
+ 2021-09-26 00:08:45,059  INFO [main] DriverClass:21 - driver gets intilized
+ 2021-09-26 00:08:47,109  INFO [main] DriverClass:28 - send the url to browser
+ 2021-09-26 00:08:52,721  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-26 00:08:56,223  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-26 00:08:57,672  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-26 00:08:57,721  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-26 00:09:01,872  INFO [main] DriverClass:59 - driver closed
+ 2021-09-26 08:20:00,203  INFO [main] DriverClass:20 - driver intilized
+ 2021-09-26 08:20:04,585  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-26 08:20:06,404  INFO [main] DriverClass:25 - ChromeDriver: chrome on WINDOWS (9f4efb5e693e19229d3bc2c62e4d3182)
+ 2021-09-26 08:20:09,241  INFO [main] DriverClass:33 - url hitted
+ 2021-09-26 08:20:18,911  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-26 08:20:22,035  INFO [main] DriverClass:24 - url hitted
+ 2021-09-26 08:20:23,273  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-26 08:20:24,700  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-26 08:20:24,865  INFO [main] DriverClass:44 - driver closed
+ 2021-09-26 08:20:26,145  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-26 08:20:30,275  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-26 08:20:37,118  INFO [main] DriverClass:37 - searched
+ 2021-09-26 08:20:38,634  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-26 08:20:41,857  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-26 08:20:44,850  INFO [main] DriverClass:37 - searched
+ 2021-09-26 08:20:46,443  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-26 08:20:50,718  INFO [main] DriverClass:26 - url hited
+ 2021-09-26 08:20:54,624  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-26 08:20:56,302  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-26 08:20:56,832  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-26 08:20:58,001  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-26 08:20:58,156  INFO [main] DriverClass:72 - driver closed
+ 2021-09-26 08:20:59,444  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (cfef6b90f507572dcf07b4a2ed787567)
+ 2021-09-26 08:21:02,769  INFO [main] DriverClass:25 - url intilized
+ 2021-09-26 08:21:07,292  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-26 08:21:08,631  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-26 08:21:09,246  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-26 08:21:09,799  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-26 08:21:10,975  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-26 08:21:11,173  INFO [main] DriverClass:61 - closing browser
+ 2021-09-26 08:21:12,460  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (431b4d3e65427f2188a9cb8c17591877)
+ 2021-09-26 08:21:15,578  INFO [main] DriverClass:28 - url intilized
+ 2021-09-26 08:21:15,970  INFO [main] DriverClass:40 - clciked on living room
+ 2021-09-26 08:21:17,424  INFO [main] DriverClass:21 - driver gets intilized
+ 2021-09-26 08:21:20,305  INFO [main] DriverClass:28 - send the url to browser
+ 2021-09-26 08:21:20,678  INFO [main] DriverClass:50 - read all the payment modes is done
+ 2021-09-26 08:21:22,105  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-26 08:21:27,780  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-26 08:21:30,189  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-26 08:21:30,236  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-26 08:21:30,481  INFO [main] DriverClass:59 - driver closed
+ 2021-09-26 08:28:56,455  INFO [main] DriverClass:20 - driver intilized
+ 2021-09-26 08:29:13,804  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-26 08:29:15,201  INFO [main] DriverClass:25 - ChromeDriver: chrome on WINDOWS (26674304d499cda96c648c8e17fcd3ab)
+ 2021-09-26 08:29:29,753  INFO [main] DriverClass:33 - url hitted
+ 2021-09-26 08:30:00,865  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-26 08:30:11,189  INFO [main] DriverClass:24 - url hitted
+ 2021-09-26 08:30:14,201  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-26 08:30:15,629  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-26 08:30:15,828  INFO [main] DriverClass:44 - driver closed
+ 2021-09-26 08:30:17,138  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-26 08:30:30,431  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-26 08:30:35,430  INFO [main] DriverClass:37 - searched
+ 2021-09-26 08:30:36,960  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-26 08:30:58,718  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-26 08:31:10,242  INFO [main] DriverClass:37 - searched
+ 2021-09-26 08:31:11,753  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-26 08:31:16,257  INFO [main] DriverClass:26 - url hited
+ 2021-09-26 08:31:22,021  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-26 08:31:23,713  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-26 08:31:24,404  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-26 08:31:25,580  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-26 08:31:25,731  INFO [main] DriverClass:72 - driver closed
+ 2021-09-26 08:31:27,096  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (93b03690dd9ec8dd29f4e20947d5a579)
+ 2021-09-26 08:31:32,509  INFO [main] DriverClass:25 - url intilized
+ 2021-09-26 08:31:38,606  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-26 08:31:40,069  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-26 08:31:40,766  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-26 08:31:41,214  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-26 08:31:41,336  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-26 08:31:41,526  INFO [main] DriverClass:61 - closing browser
+ 2021-09-26 08:31:42,823  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (fdc4c89245c03629108be111e44a4818)
+ 2021-09-26 08:31:48,191  INFO [main] DriverClass:28 - url intilized
+ 2021-09-26 08:31:48,493  INFO [main] DriverClass:40 - clciked on living room
+ 2021-09-26 08:31:53,984  INFO [main] DriverClass:21 - driver gets intilized
+ 2021-09-26 08:31:58,132  INFO [main] DriverClass:28 - send the url to browser
+ 2021-09-26 08:31:58,366  INFO [main] DriverClass:50 - read all the payment modes is done
+ 2021-09-26 08:32:03,814  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-26 08:32:08,946  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-26 08:32:10,850  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-26 08:32:10,896  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-26 08:32:11,077  INFO [main] DriverClass:59 - driver closed
+ 2021-09-26 09:20:29,855  INFO [main] DriverClass:20 - driver intilized
+ 2021-09-26 09:20:48,464  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-26 09:20:49,961  INFO [main] DriverClass:25 - ChromeDriver: chrome on WINDOWS (d048ac0ecb5bd38884cf99f4f470909b)
+ 2021-09-26 09:21:13,341  INFO [main] DriverClass:33 - url hitted
+ 2021-09-26 09:21:29,221  INFO [main] DriverClass:18 - driver intilized
+ 2021-09-26 09:21:37,242  INFO [main] DriverClass:24 - url hitted
+ 2021-09-26 09:21:39,428  INFO [main] DriverClass:33 - clicked on cart
+ 2021-09-26 09:21:40,751  INFO [main] DriverClass:39 - clicked on continue button
+ 2021-09-26 09:21:44,896  INFO [main] DriverClass:44 - driver closed
+ 2021-09-26 09:21:46,200  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-26 09:21:52,691  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-26 09:21:55,135  INFO [main] DriverClass:37 - searched
+ 2021-09-26 09:21:56,557  INFO [main] DriverClass:19 - driver intilized
+ 2021-09-26 09:22:03,927  INFO [main] DriverClass:26 - navigated to website
+ 2021-09-26 09:22:08,258  INFO [main] DriverClass:37 - searched
+ 2021-09-26 09:22:09,668  INFO [main] DriverClass:19 - intilized driver
+ 2021-09-26 09:22:15,571  INFO [main] DriverClass:26 - url hited
+ 2021-09-26 09:22:21,733  INFO [main] DriverClass:34 - clicked in trackorder
+ 2021-09-26 09:22:23,369  INFO [main] DriverClass:56 - clciked on login button
+ 2021-09-26 09:22:24,034  INFO [main] DriverClass:46 - sended email and password
+ 2021-09-26 09:22:25,503  INFO [main] DriverClass:65 - clciked on submit
+ 2021-09-26 09:22:29,628  INFO [main] DriverClass:72 - driver closed
+ 2021-09-26 09:22:30,906  INFO [main] DriverClass:19 - ChromeDriver: chrome on WINDOWS (b379a24dc42f82ee3b0576a44505499b)
+ 2021-09-26 09:22:36,801  INFO [main] DriverClass:25 - url intilized
+ 2021-09-26 09:22:43,947  INFO [main] DriverClass:32 - clicked on track order
+ 2021-09-26 09:22:45,134  INFO [main] DriverClass:68 - clicked on login button
+ 2021-09-26 09:22:45,486  INFO [main] DriverClass:42 - clciked on signup link
+ 2021-09-26 09:22:45,972  INFO [main] DriverClass:54 - sended email and password
+ 2021-09-26 09:22:46,103  INFO [main] DriverClass:76 - clciked on submit button
+ 2021-09-26 09:22:46,240  INFO [main] DriverClass:61 - closing browser
+ 2021-09-26 09:22:47,643  INFO [main] DriverClass:20 - ChromeDriver: chrome on WINDOWS (174cb46fc89ca73cb6a868b4fdd03619)
+ 2021-09-26 09:22:52,858  INFO [main] DriverClass:28 - url intilized
+ 2021-09-26 09:22:53,158  INFO [main] DriverClass:40 - clciked on living room
+ 2021-09-26 09:22:54,620  INFO [main] DriverClass:21 - driver gets intilized
+ 2021-09-26 09:23:00,213  INFO [main] DriverClass:28 - send the url to browser
+ 2021-09-26 09:23:00,471  INFO [main] DriverClass:50 - read all the payment modes is done
+ 2021-09-26 09:23:01,971  INFO [main] DriverClass:23 - driver gets intilized
+ 2021-09-26 09:23:08,552  INFO [main] DriverClass:29 - send the url to browser
+ 2021-09-26 09:23:10,922  INFO [main] DriverClass:38 - clicked on about us
+ 2021-09-26 09:23:10,961  INFO [main] DriverClass:49 - reading the text from aboutus page
+ 2021-09-26 09:23:11,134  INFO [main] DriverClass:59 - driver closed
+ 

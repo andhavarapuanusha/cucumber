@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+    <line>
+      <![CDATA[<div "result">driver (PASSED : 2s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">url (PASSED : 5s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">click on appstore (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">read the rating (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">close (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">intilize driver is done (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">url is to be set (PASSED : 6s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">click on bulkorders (PASSED : 8s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">click on buy bulk (PASSED : 2s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">set the driver as null (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">driver is intilized (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">hit url (PASSED : 3s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">click on cart (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">click on continue shopping button (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">change driver to close state (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">intilize the browser (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">navigate to furniture website (PASSED : 4s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">click on search tab and give the beds (PASSED : 2s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">close the browser (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">intilize the browser (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">navigate to furniture website (PASSED : 3s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">click on search tab and give the study tables (PASSED : 4s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">close the browser (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">driver is set (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">send the url (PASSED : 5s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">click on tractorder (PASSED : 7s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">click on login button (PASSED : 2s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">give emailaddress as &quot;anushaandhavarapu2@gmail.com&quot; and password as &quot;Anusha@123&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">click on submit button (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">close driver tab (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">setting driver (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">setting the url; (PASSED : 7s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">tab on trackorder (PASSED : 8s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">tab on loginbutton (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">tab on signup (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">send the email as &quot;anushaandhavarapu2@gmail.com&quot; and password as &quot;Anusha@123&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">tab on submit button (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">closing the driver (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">driver intilization (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">url sending to browser (PASSED : 3s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">click on all nav items (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">close the driver set it to null (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">first we intilize driver (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">we should send url (PASSED : 3s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">read all the payment modes (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">shut down the driver (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">driver gets intilized (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">send the url to browser (PASSED : 3s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">click on about us (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">read the text from the page (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">exit the driver (PASSED : 0s)</div>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="109289" started-at="2021-09-26T03:55:36Z" finished-at="2021-09-26T03:57:26Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.cucumber_comprensive_assessment.Runner.Runner@4678c730]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="runner" duration-ms="109289" started-at="2021-09-26T03:55:36Z" finished-at="2021-09-26T03:57:26Z">
+      <class name="com.cucumber_comprensive_assessment.Runner.Runner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.cucumber_comprensive_assessment.Runner.Runner@4678c730]" name="setUpClass" is-config="true" duration-ms="309" started-at="2021-09-26T03:55:36Z" finished-at="2021-09-26T03:55:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.cucumber_comprensive_assessment.Runner.Runner@4678c730]" name="runScenario" duration-ms="8822" started-at="2021-09-26T03:55:37Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-26T03:55:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["appcheck"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["furniture"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">driver (PASSED : 2s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">url (PASSED : 5s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">click on appstore (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">read the rating (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">close (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.cucumber_comprensive_assessment.Runner.Runner@4678c730]" name="runScenario" duration-ms="19020" started-at="2021-09-26T03:55:46Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-26T03:56:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Bulkcart"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["furniture"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">intilize driver is done (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">url is to be set (PASSED : 6s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">click on bulkorders (PASSED : 8s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">click on buy bulk (PASSED : 2s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">set the driver as null (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.cucumber_comprensive_assessment.Runner.Runner@4678c730]" name="runScenario" duration-ms="7357" started-at="2021-09-26T03:56:05Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-26T03:56:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["cart opertions"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Furniture"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">driver is intilized (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">hit url (PASSED : 3s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">click on cart (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">click on continue shopping button (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">change driver to close state (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.cucumber_comprensive_assessment.Runner.Runner@4678c730]" name="runScenario" duration-ms="8069" started-at="2021-09-26T03:56:12Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-26T03:56:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["search products"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Furniture"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">intilize the browser (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">navigate to furniture website (PASSED : 4s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">click on search tab and give the beds (PASSED : 2s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">close the browser (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.cucumber_comprensive_assessment.Runner.Runner@4678c730]" name="runScenario" duration-ms="9400" started-at="2021-09-26T03:56:20Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-26T03:56:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["search products"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Furniture"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">intilize the browser (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">navigate to furniture website (PASSED : 3s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">click on search tab and give the study tables (PASSED : 4s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">close the browser (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.cucumber_comprensive_assessment.Runner.Runner@4678c730]" name="runScenario" duration-ms="19598" started-at="2021-09-26T03:56:30Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-26T03:56:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["login"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["furniture"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">driver is set (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">send the url (PASSED : 5s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">click on tractorder (PASSED : 7s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">click on login button (PASSED : 2s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">give emailaddress as &quot;anushaandhavarapu2@gmail.com&quot; and password as &quot;Anusha@123&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">click on submit button (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">close driver tab (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.cucumber_comprensive_assessment.Runner.Runner@4678c730]" name="runScenario" duration-ms="20593" started-at="2021-09-26T03:56:49Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-26T03:57:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["signup"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["furniture"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">setting driver (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">setting the url; (PASSED : 7s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">tab on trackorder (PASSED : 8s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">tab on loginbutton (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">tab on signup (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">send the email as &quot;anushaandhavarapu2@gmail.com&quot; and password as &quot;Anusha@123&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">tab on submit button (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">closing the driver (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.cucumber_comprensive_assessment.Runner.Runner@4678c730]" name="runScenario" duration-ms="4707" started-at="2021-09-26T03:57:10Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-26T03:57:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["validation"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["furniture"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">driver intilization (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">url sending to browser (PASSED : 3s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">click on all nav items (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">close the driver set it to null (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.cucumber_comprensive_assessment.Runner.Runner@4678c730]" name="runScenario" duration-ms="5031" started-at="2021-09-26T03:57:14Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-26T03:57:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["payment"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["furniture"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">first we intilize driver (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">we should send url (PASSED : 3s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">read all the payment modes (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">shut down the driver (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.cucumber_comprensive_assessment.Runner.Runner@4678c730]" name="runScenario" duration-ms="6225" started-at="2021-09-26T03:57:20Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-09-26T03:57:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["popular products"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Furniture"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">driver gets intilized (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">send the url to browser (PASSED : 3s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">click on about us (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">read the text from the page (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">exit the driver (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.cucumber_comprensive_assessment.Runner.Runner@4678c730]" name="tearDownClass" is-config="true" duration-ms="4" started-at="2021-09-26T03:57:26Z" finished-at="2021-09-26T03:57:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.cucumber_comprensive_assessment.Runner.Runner@4678c730]" name="test" is-config="true" duration-ms="8400" started-at="2021-09-26T03:57:26Z" finished-at="2021-09-26T03:57:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.cucumber_comprensive_assessment.Runner.Runner -->
+    </test> <!-- runner -->
+  </suite> <!-- Suite -->
+</testng-results>
